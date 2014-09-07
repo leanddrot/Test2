@@ -1,0 +1,21 @@
+*~
+*.swp
+*.class
+db/
+target/
+target-ide/
+logs/
+.clover/
+.settings/
+.project
+.classpath
+datanucleus.log
+*.iml
+.idea
+*.log
+*.lck
+.checkstyle-cachefile
+# Package Files #
+*.jar
+*.war
+*.ear
